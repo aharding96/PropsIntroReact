@@ -1,2 +1,0 @@
-# PropsIntroReact
-Created with CodeSandbox
